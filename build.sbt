@@ -1,4 +1,4 @@
-name := "ScalaMocking"
+name := "ScalaMockingPractice"
 
 version := "0.1"
 
